@@ -1,0 +1,49 @@
+:root{
+    /* Font settings */
+    --font-base: 'Pretendard', Arial, sans-serif;
+    --font-size-base: 1rem; /*16px*/
+    --font-size-sm: 0.875rem; /*14px*/
+    --font-size-lg: 1.25rem; /*20px*/
+    --font-size-small : 13px;
+    --navi-menu: 18px; /*main-menu&sub-menu*/
+    --event-tit: 64px; /*event-title*/
+    --sub-h2: 44px;
+    --sub-h4: 26px;
+    --event-sub-tit: 1.5rem; /*24px*/
+
+    /*font weight*/
+    --fw-100: 100; /*Thin*/
+    --fw-300: 300; /*Light*/
+    --fw-400: 400; /*Regular*/
+    --fw-500: 500; /*Medium*/
+    --fw-600: 600; /*SemiBold*/
+    --fw-700: 700; /*Bold*/
+    --fw-900: 900; /*Black*/
+    
+    /*color 값 셋팅*/
+    --basic-color: #222;
+    --color-desc: #808080;
+    --color-secondary: #999999;
+    --color-text: #4C5354;
+    --color-muted: #777F81; /*날짜나 보조설명등*/
+    --color-primary: #2EC4B6;
+    --color-primary2: #1CBCCF;
+    --color-sub-bg: #B3EBF2;
+    --color-accent: #FFCA28;
+    --color-point: #FF9F1C;
+    --color-sub: #874FFF;
+
+    /*컨테이너 크기*/
+    --container-var-1480: 1480px;
+    --container-var-960: 960px;
+    --container-var-720: 720px; 
+    --container-var-420: 420px; 
+
+    /* Background */
+    --bg-light: #f8f9fa;
+    --bg-dark: #1a1a1a;
+
+    /* Border */
+    --border-light: #e0e0e0;
+    --border-dark: #555;
+  }

@@ -1,0 +1,26 @@
+#header {
+  .offcanvas-body {
+    margin: 0 auto;
+  }
+
+  .hd-menu-e {
+    .nav-item {
+      svg {
+        width: 24px;
+        height: 24px;
+
+        path {
+          transition: stroke 0.3s;
+        }
+      }
+
+      &:hover {
+        svg {
+          path {
+            stroke: var(--color-primary);
+          }
+        }
+      }
+    }
+  }
+}
